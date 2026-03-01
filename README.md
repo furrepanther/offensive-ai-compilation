@@ -118,6 +118,7 @@ In the generic case, where there is insufficient knowledge of the model, the sub
   * [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox): An Open-sourced Python Toolbox for Backdoor Attacks and Defenses. [![stars](https://badgen.net/github/stars/THUYimingLi/BackdoorBox)](https://github.com/THUYimingLi/BackdoorBox)
   * [Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)
   * [Hard-Label Cryptanalytic Extraction of Neural Network Models](https://eprint.iacr.org/2024/1403)
+  * [https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks)
 
 ##### ⬅️ Inversion (or inference) ⬅️
 
@@ -276,6 +277,10 @@ The most common attacks are **white-box attacks**:
 
   * [Devil's Inference](https://github.com/AI-Voodoo/Devil_Inference): A method to adversarially assess the Phi-3 Instruct model by observing the attention distribution across its heads when exposed to specific inputs. This approach prompts the model to adopt the 'devil's mindset’, enabling it to generate outputs of a violent nature. [![stars](https://badgen.net/github/stars/AI-Voodoo/Devil_Inference)](https://github.com/AI-Voodoo/Devil_Inference)
 
+  * [Over-the-Air Adversarial Attack Detection: from Datasets to Defenses](https://arxiv.org/abs/2509.09296)
+
+  * [Harnessing Hyperbolic Geometry for Harmful Prompt Detection and Sanitization](https://openreview.net/forum?id=G8HnUTlMpt)
+
 ###### 🔗 Useful links 🔗
 
   * [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)
@@ -355,6 +360,9 @@ The most common attacks are **white-box attacks**:
   * [Attention Tracker: Detecting Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2411.00348v2)
   * [The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against Llm Jailbreaks and Prompt Injections](https://arxiv.org/abs/2510.09023)
   * [Weaponizing Calendar Invites: A Semantic Attack on Google Gemini](https://www.miggo.io/post/weaponizing-calendar-invites-a-semantic-attack-on-google-gemini)
+  * [GTIG AI Threat Tracker: Distillation, Experimentation, and (Continued) Integration of AI for Adversarial Use](https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use)
+  * [How Cline Was Compromised: Prompt Injection and Dangling Commits in the Cline Supply Chain Attack](https://murraycole.com/posts/cline-compromise-prompt-injection-supply-chain-attack)
+  * [Aguara: Security scanner for AI agent skills & MCP servers](https://aguarascan.com/)
 
 #### 🛠️ Tools 🛠️
 
@@ -439,6 +447,11 @@ AI is used to accomplish malicious tasks and boost classic attacks.
 
   * [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org/abs/2407.16928) 
 
+### ⚙️ Reverse engenieering ⚙️
+
+  * [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)
+  *  [GhidraMCP](MCP Server for Ghidra. [![stars](https://badgen.net/github/stars/LaurieWired/GhidraMCP)](https://github.com/LaurieWired/GhidraMCP)
+  *  [ghidra-mcp](Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server integration, cross-binary documentation transfer, batch operations, AI documentation workflows, and Docker deployment for AI-powered reverse engineering. [![stars](https://badgen.net/github/stars/bethington/ghidra-mcp)](https://github.com/bethington/ghidra-mcp)
 
 ### 🌀 Side channels 🌀
 
@@ -846,6 +859,8 @@ General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/
   * [SP 800-53 Control Overlays for Securing AI Systems Concept Paper](https://csrc.nist.gov/csrc/media/Projects/cosais/documents/NIST-Overlays-SecuringAI-concept-paper.pdf)
   * [Agents Rule of Two: A Practical Approach to AI Agent Security](https://ai.meta.com/blog/practical-ai-agent-security/)
   * [ETSI EN 304 223 V2.1.1 (2025-12)](https://www.etsi.org/deliver/etsi_en/304200_304299/304223/02.01.01_60/en_304223v020101p.pdf): Securing Artificial Intelligence (SAI); Baseline Cyber Security Requirements for AI Models and Systems 
+  * [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988)
+  * [Handbook of Digital Face Manipulation and Detection](https://link.springer.com/book/10.1007/978-3-030-87664-7)
 
 ## 📊 Surveys 📊
 
